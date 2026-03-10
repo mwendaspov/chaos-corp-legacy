@@ -1,4 +1,3 @@
-Markdown
 #Engineering Standards (CMMI Level 3)
 1. All changes must be made on a feature branch: 'feature/name'.
 2. All pull requests must link to a Jira/Issue ID
